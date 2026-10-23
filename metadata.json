@@ -1,0 +1,10 @@
+{
+  "name": "Surakshit Path AI",
+  "description": "Beyond Direction Towards Safety: AI-powered route safety scoring, dual-path navigation, infrastructure hazard mapping, and instant SOS dispatch.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
